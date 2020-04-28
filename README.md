@@ -8,4 +8,4 @@ https://htmlcsstoimage.com/dashboard
 https://notify-bot.line.me/th/
 แล้วเอามาใส่ในไฟล์ linenotify_conf.php ตรงที่ Authorization: Bearer xxxx  แทนคำว่า xxxx
 
-Cr.อ อ๊อฟ Jattupron Butsart สสจ.l01
+Cr.อ อ๊อฟ Jattupron Butsart สสจ.101
