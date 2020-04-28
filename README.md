@@ -7,3 +7,5 @@ https://htmlcsstoimage.com/dashboard
 จากนั้นให้สร้าง line token เพื่อส่งเข้าไปในกลุ่มโดย สมัคร line notify token ที่ 
 https://notify-bot.line.me/th/
 แล้วเอามาใส่ในไฟล์ linenotify_conf.php ตรงที่ Authorization: Bearer xxxx  แทนคำว่า xxxx
+
+Cr.อ อ๊อฟ Jattupron Butsart สสจ.l01
